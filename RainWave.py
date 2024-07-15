@@ -1,5 +1,5 @@
 # Rainbow wave
-# Github: https://github.com/Kourva
+# Github: https://github.com/kozyol
 
 # Imports
 import math
